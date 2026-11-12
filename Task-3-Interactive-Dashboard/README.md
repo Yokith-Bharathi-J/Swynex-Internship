@@ -54,8 +54,5 @@ The dashboard presents supermarket sales performance through interactive KPIs, c
 3. E-wallet was the most-used payment method.
 4. Saturday recorded the highest sales among weekdays.
 
-## Dashboard Link
-[Paste your Google Looker Studio report link here]
-
 ## Conclusion
 The interactive dashboard helps understand supermarket sales performance and supports data-driven business decisions.
