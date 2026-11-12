@@ -24,6 +24,30 @@ To create an interactive dashboard that presents supermarket sales performance t
 - Payment Method
 - Date Range
 
+## Interactive Dashboard
+
+**Tool Used:** Google Looker Studio
+
+**Dashboard Link:** [View Supermarket Sales Interactive Dashboard](https://datastudio.google.com/reporting/13097cba-a033-4857-b173-aba7cbc8e508)
+
+The dashboard presents supermarket sales performance through interactive KPIs, charts, business insights, and filters.
+
+### Dashboard Features
+- Total Revenue
+- Total Quantity Sold
+- Average Customer Rating
+- Total Transactions
+- Sales by Product Line
+- Sales by Branch
+- Payment Method Distribution
+- Daily Sales Analysis by Weekday
+
+### Interactive Filters
+- Branch
+- Product Line
+- Payment Method
+- Date Range
+
 ## Key Business Insights
 1. Food and beverages generated the highest revenue among the product lines.
 2. Branch C recorded the highest total sales.
